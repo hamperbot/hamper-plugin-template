@@ -1,8 +1,11 @@
 {
-    "full_name": null,
-    "email": null,
-    "github_username": null,
+    "full_name": "",
+    "email": "",
+    "github_username": "",
+    "year": "2014",
 
-    "package_name": "hamper-some-plugin',
-    "year": "2014"
+    "package_name": "myplugin",
+    "version": "0.1",
+    "repo_name": "hamper-myplugin",
+    "project_name": "My Plugin"
 }
